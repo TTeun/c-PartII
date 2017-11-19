@@ -1,2 +1,3 @@
 *.o
 *.ih.gch
+tmp/
